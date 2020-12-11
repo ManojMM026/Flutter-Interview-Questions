@@ -68,7 +68,10 @@ Title: Flutter Interview Questions
 * What is the purpose of `ModalRoute.of()`?
 * Difference between a `Navigator.pushNamed` and `Navigator.pushReplacementNamed`?
 * Difference between a `Single Instance` and `Scoped Instance` ?
-
+* How do you pass data between two screens?
+* How do you override the back-button action?
+* How can we embed a regular widget (e.g., a container) within a sliver?
+* Navigator 1.0 vs Navigator 2.0.
 
 Title: Animation Interview Questions
 ---
@@ -80,6 +83,7 @@ Title: Animation Interview Questions
 * Define a `TweenAnimation` ? 
 * State the importance of a `Ticker` ?
 * Why do we need a `mixins` ?
+* Implicit vs explicit animation?
 
 Title: FireStore Interview Questions
 ---
